@@ -19,6 +19,8 @@ for i=1:4
 i
 end
 ```
+here is some math (like latex):
 
+$$ x=y+1 $$
 
 
